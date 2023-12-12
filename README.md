@@ -1,5 +1,7 @@
 Banco Eletronico S&K
 
+De: Sérgio Arthur Sobral Souza (41) & Kaio César Cardoso Silva (24) - 1º Informática/2023 | 4º Bimestre
+
 Desenvolvemos o Banco Eletrônico S&K utilizando a linguagem de programação Python, oferecendo uma solução eficiente e moderna para as necessidades financeiras. Com uma base sólida de código, nossa aplicação proporciona segurança, agilidade e uma experiência amigável aos usuários. Explore as funcionalidades avançadas e a robustez do nosso sistema, criado para atender às demandas contemporâneas do setor financeiro.
 
 O Banco Eletrônico S&K oferece um conjunto abrangente de funções para atender às diversas necessidades dos usuários. Entre as principais funcionalidades estão:
@@ -26,3 +28,4 @@ Visualizar Saldo:
 Obtenha informações detalhadas sobre o saldo da conta, proporcionando aos usuários uma visão clara e atualizada de suas finanças.
 
 Essas funcionalidades combinadas visam proporcionar uma experiência completa e segura aos usuários do Banco Eletrônico S&K, atendendo às demandas cotidianas de gerenciamento financeiro de forma eficaz.
+
